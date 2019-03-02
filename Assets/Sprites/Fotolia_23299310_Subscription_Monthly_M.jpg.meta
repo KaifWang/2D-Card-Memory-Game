@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: f85b44813f77f5c4298276c595f13867
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fotolia_23299310_Subscription_Monthly_M_0
+    21300002: Fotolia_23299310_Subscription_Monthly_M_1
+    21300004: Fotolia_23299310_Subscription_Monthly_M_2
+    21300006: Fotolia_23299310_Subscription_Monthly_M_3
+    21300008: Fotolia_23299310_Subscription_Monthly_M_5
+    21300010: Fotolia_23299310_Subscription_Monthly_M_6
+    21300012: Fotolia_23299310_Subscription_Monthly_M_7
+    21300014: Fotolia_23299310_Subscription_Monthly_M_8
+    21300016: Fotolia_23299310_Subscription_Monthly_M_9
+    21300018: Fotolia_23299310_Subscription_Monthly_M_10
+    21300020: Fotolia_23299310_Subscription_Monthly_M_11
+    21300022: Fotolia_23299310_Subscription_Monthly_M_12
+    21300024: Fotolia_23299310_Subscription_Monthly_M_13
+    21300026: Fotolia_23299310_Subscription_Monthly_M_14
+    21300028: Fotolia_23299310_Subscription_Monthly_M_15
+    21300030: Fotolia_23299310_Subscription_Monthly_M_16
+    21300032: Fotolia_23299310_Subscription_Monthly_M_17
+    21300034: Fotolia_23299310_Subscription_Monthly_M_18
+    21300036: Fotolia_23299310_Subscription_Monthly_M_19
+    21300038: Fotolia_23299310_Subscription_Monthly_M_20
+    21300040: Fotolia_23299310_Subscription_Monthly_M_21
+    21300042: Fotolia_23299310_Subscription_Monthly_M_22
+    21300044: Fotolia_23299310_Subscription_Monthly_M_24
+    21300046: Fotolia_23299310_Subscription_Monthly_M_25
+    21300048: Fotolia_23299310_Subscription_Monthly_M_26
+    21300050: Fotolia_23299310_Subscription_Monthly_M_27
+    21300052: Fotolia_23299310_Subscription_Monthly_M_28
+    21300054: Fotolia_23299310_Subscription_Monthly_M_29
+    21300056: Fotolia_23299310_Subscription_Monthly_M_30
+    21300058: Fotolia_23299310_Subscription_Monthly_M_31
+    21300060: Fotolia_23299310_Subscription_Monthly_M_32
+    21300062: Fotolia_23299310_Subscription_Monthly_M_33
+    21300064: Fotolia_23299310_Subscription_Monthly_M_34
+    21300066: Fotolia_23299310_Subscription_Monthly_M_35
+    21300068: Fotolia_23299310_Subscription_Monthly_M_37
+    21300070: Fotolia_23299310_Subscription_Monthly_M_38
+    21300072: Fotolia_23299310_Subscription_Monthly_M_39
+    21300074: Fotolia_23299310_Subscription_Monthly_M_40
+    21300076: Fotolia_23299310_Subscription_Monthly_M_41
+    21300078: Fotolia_23299310_Subscription_Monthly_M_42
+    21300080: Fotolia_23299310_Subscription_Monthly_M_43
+    21300082: Fotolia_23299310_Subscription_Monthly_M_44
+    21300084: Fotolia_23299310_Subscription_Monthly_M_45
+    21300086: Fotolia_23299310_Subscription_Monthly_M_46
+    21300088: Fotolia_23299310_Subscription_Monthly_M_47
+    21300090: Fotolia_23299310_Subscription_Monthly_M_48
+    21300092: Fotolia_23299310_Subscription_Monthly_M_50
+    21300094: Fotolia_23299310_Subscription_Monthly_M_51
+    21300096: Fotolia_23299310_Subscription_Monthly_M_52
+    21300098: Fotolia_23299310_Subscription_Monthly_M_53
+    21300100: Fotolia_23299310_Subscription_Monthly_M_54
+    21300102: Fotolia_23299310_Subscription_Monthly_M_55
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e549729ae1f8442a9123fa8edcb5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad6b0da0b207e146a5f61598f10ee6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65967c2f3e3a4944aa756316f80831f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0b7cb849f2bd42b1db1b709e4d441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c932e6367687f4479f3c6a07476155d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09e733a31697f458409a7103dcdbdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e42e0d3047294aa29e4a21acfc299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_8
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58979ae9bc05ed4fa1a6149b250776a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_9
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45830d87c241c4f90c47a9be0ecf09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_10
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 696
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a510a9b00c9d4a9f0be8721f6d09e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_11
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 696
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e420312d1628448c713a097623a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_12
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb4ce6ff3f18e246a655740ab1cb64e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_13
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 698
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57236db641a535447a811fea62c85e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02621613f5dc651499e3874257cb932b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc4689a5ac8653478ac6a60a864cee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 463
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df52c6e96296d42835743274ae4658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 466
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287e1275880f23488d5317e419dcafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 466
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246529f0db509c54e91aa793a056479e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_19
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 466
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0a55f285850c448f16e8386bbfa99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_20
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5fa901595b034ea84ffa41fbf7b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa91147d76b2b84c9bfa71674e263a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_22
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 463
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecee06cb46e4724084d704a10e9ca1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_24
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bec986f010bbf44a23708e04208b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_25
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 466
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc6b3e715998c47b0a973aa9e3870d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_26
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 464
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca1bc55e9919949ae0f6a848c20a59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_27
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 467
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe997016ec43c4ebc15216f3586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335095a23d79a84bba0409e9749629c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 229
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e3070f9b53d34b8706f3a692e2ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 230
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bada68d7a311874bba4713a7f48deef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f6330dfdbb1145af21e806ce9039c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_32
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 233
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc69dfbba68f7643abe976a300a06a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_33
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3858ff9e13e874c8c74a91327e1ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_34
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1472ea109e680747b89dd35e5c3363c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_35
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec377a73ffd32394592e31db9398d1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_37
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 233
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f6885288d85144b5687f0b48aa46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_38
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 232
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf53e5da8f9d047b9543b0aa9c3835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_39
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 233
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeccd4f0b6ad1344a0b7da5c4b86284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_40
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 231
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032091ae4146b749b6ad7a576a06f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_41
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 233
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be237582afa1e214788f7eb4895dcede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d530066d40614c82bdc88bd057dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a772d0284c77c4a82f1a4fabd13dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d58e8aa1ecd4447b55efc8da21a198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_45
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7891ab9ae5ade743a3e6ff61e375911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_46
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b77195c522a1114da9ef5b499480a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2664637bd2c5941860ee77a9753436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_48
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6b6482e127de4ea267493ec189d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_50
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90e0a0ec5afc447b2d516716318930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_51
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7484cc4b9458147b55b38f3e2a58cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_52
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571099401f0fba44f9e50887a1becf5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_53
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7563b3d4a09ea54ebf2bb8e1559a8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_54
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d014b4c727f9f43913c9514d001c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fotolia_23299310_Subscription_Monthly_M_55
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 0
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c93101b817b64aafe967b715270ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5e9d46be019ea841b53cf9f8228f3a5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
